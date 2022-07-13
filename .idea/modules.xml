@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/electron_example_V2.iml" filepath="$PROJECT_DIR$/.idea/electron_example_V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example_electron/example_electron.iml" filepath="$PROJECT_DIR$/example_electron/example_electron.iml" />
+    </modules>
+  </component>
+</project>
